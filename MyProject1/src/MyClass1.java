@@ -11,7 +11,7 @@ public class MyClass1 {
 		int p = (int)12.7;
 		System.out.print(s+i);// long 8 Bytes, int 4Bytes, short 2 bytes, byte 1Byte 
 		System.out.print("  ");
-		System.out.print(p);
+		System.out.print(p);//this is the variable p
 	}
 
 }
